@@ -1,7 +1,5 @@
 
 <div align=center>
-	
-	</br>
 	Wannabe Front-end Developer
 	<h1>📚 STACKS</h1>
 </div>
