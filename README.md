@@ -21,11 +21,10 @@
 	<br>
 </div>
 <div>
-	<h5>📚 현재 공부중</h5>
+	<h5>📚 현재 공부중인 분야</h5>
 </div>
 <div>
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-	
 </div>
 <div>
 	<h5>📚 관심있는 분야</h5>
