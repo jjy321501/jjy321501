@@ -1,6 +1,6 @@
 정준영의 Git Hub 
 
-Html, CSS, Javascript, React
+#E34F26, CSS, Javascript, React
 
 Wannabe Front-end Developer
 
