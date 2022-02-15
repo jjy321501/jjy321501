@@ -1,6 +1,6 @@
 
 <div>
-	Junior Front-end Developer
+	<h2>Junior Front-end Developer</h2>
 	<h3>📚 STACKS</h3>
 </div>
 <div> 
