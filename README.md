@@ -1,6 +1,6 @@
 
 <div>
-	<h2>Junior Front-end Developer</h2>
+	<h2>신입 웹 개발자 정준영입니다.</h2>
 	<h3>📚 STACKS</h3>
 </div>
 <div> 
@@ -21,7 +21,7 @@
 	<br>
 </div>
 <div>
-	<h5>📚 현재 공부중인 분야</h5>
+	<h5>📚 현재 공부중인 분야 </h5>
 </div>
 <div>
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
