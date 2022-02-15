@@ -1,7 +1,7 @@
 
 <div align=center>
 	Wannabe Front-end Developer
-	<h1>📚 STACKS</h1>
+	<h3>📚 STACKS</h3>
 </div>
 <div align=center> 
 	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -22,16 +22,16 @@
 </div>
 <div>
 	<h5>📚 현재 공부중</h5>
-</div>
+</div align="left">
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 	
 </div>
 <div>
-	<h5>📚 관심있는 언어</h5>
-</div>
+	<h5>📚 관심있는 분야</h5>
+</div align="left">
 	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-	
+	<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 <div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 	
